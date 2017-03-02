@@ -1,10 +1,10 @@
 
 # ImageGathering
 
-# Description:
-Image crawler implementation using Python library icrawler. ImageFilter crawls google images for a given number of search images and puts them into a directory called your_image_dir. Then, it moves all images that meach a filter criteria into a folder called filtered_images_dir. 
+## About:
+Image crawler implementation using Python library icrawler. ImageFilter crawls google images for a given number of search images and puts them into a directory called your_image_dir. Then, it moves all images that meach a filter criteria into a folder called filtered_images_dir. This project was created as my first coding experience in Python.
 
-# Input:
+## Input:
 
 ImageFilter.py "[search parameters]" [number of images]
 
